@@ -13,6 +13,7 @@
 		49D1687620F502D400B4AF2C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49D1687520F502D400B4AF2C /* Assets.xcassets */; };
 		49D1687920F502D400B4AF2C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49D1687720F502D400B4AF2C /* LaunchScreen.storyboard */; };
 		49D1688120F5054800B4AF2C /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D1688020F5054800B4AF2C /* SwiftyJSON.swift */; };
+		49D1688320F510B300B4AF2C /* ArticlesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D1688220F510B300B4AF2C /* ArticlesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		49D1687820F502D400B4AF2C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		49D1687A20F502D400B4AF2C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		49D1688020F5054800B4AF2C /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
+		49D1688220F510B300B4AF2C /* ArticlesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticlesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				49D1686E20F502D300B4AF2C /* AppDelegate.swift */,
 				49D1687020F502D300B4AF2C /* SourcesViewController.swift */,
+				49D1688220F510B300B4AF2C /* ArticlesViewController.swift */,
 				49D1687220F502D300B4AF2C /* Main.storyboard */,
 				49D1687520F502D400B4AF2C /* Assets.xcassets */,
 				49D1687720F502D400B4AF2C /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				49D1688120F5054800B4AF2C /* SwiftyJSON.swift in Sources */,
+				49D1688320F510B300B4AF2C /* ArticlesViewController.swift in Sources */,
 				49D1687120F502D300B4AF2C /* SourcesViewController.swift in Sources */,
 				49D1686F20F502D300B4AF2C /* AppDelegate.swift in Sources */,
 			);
